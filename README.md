@@ -1,2 +1,2 @@
 # Slackbot
-Simple Leadership Coaching Bot
+Simple Slack Bot Application
